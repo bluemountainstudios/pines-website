@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : In-App Schedule Editing
     description                           : Our computer generated schedules are great, but you can make it better. Use the in-app editor to optimize your schedule to your students' needs. 
-    fontawesome_icon_name                 : pen-to-square
+    fontawesome_icon_name                 : calendar-lines-pen
 
   - title                                 : Focus Areas
     description                           : Each of your students are unique. Use Focus Areas to intelligently group or separate your students by goal area, needs, standards, or even personality traits. 
