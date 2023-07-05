@@ -42,11 +42,11 @@ features                                  :
     
   - title                                 : In-App Schedule Editing
     description                           : Our computer generated schedules are great, but you can make it better. Use the in-app editor to optimize your schedule to your students' needs. 
-    fontawesome_icon_name                 : calendar-lines-pen
+    fontawesome_icon_name                 : pen
 
   - title                                 : Focus Areas
     description                           : Each of your students are unique. Use Focus Areas to intelligently group or separate your students by goal area, needs, standards, or even personality traits. 
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : fa-solid fa-magnifying-glass
 
   - title                                 : Schedule Auditing
     description                           : We’ll double check your schedule to make sure your schedule meets all of your requirements.
@@ -55,6 +55,8 @@ features                                  :
   - title                                 : Privacy First
     description                           : Lemon Schedules takes privacy seriously. All personal, student, and scheduling data you enter is stored on your device and never uploaded or sold. We’re fully FERPA and HIPAA compliant. 
     fontawesome_icon_name                 : lock
+
+bottom_paragraph                          : Lemon Schedules is a family operation. The concept for Lemon Schedules came from brainstorming solutions to real life challenges at the dinner table. Thanks for supporting our small business and joining our family!
 
 # Theme Settings
 topbar_color                              : "#000000"
@@ -69,7 +71,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#4D9B6F"
 
 app_title_color                           : "#000000"
 app_price_color                           : "#ffffff"
@@ -78,7 +80,7 @@ app_description_color                     : "#000000"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#4D9B6F"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"

@@ -5,56 +5,73 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+July 4, 2023
 
 # Terms of Service
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Please read these Terms of Use, including those set forth in the Privacy Policy ("Terms", "Terms of Use") carefully before using the Lemon Schedules application (the "App") made available by Blue Mountain Studios, LLC ("us", "we", or "our").
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Your access to and use of the App is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the App.
 
-<br>
+The App is not intended for and is not designed to attract children under 13 years of age. BY ACCESSING OR USING THE APP YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DISAGREE WITH ANY PART OF THE TERMS THEN YOU DO NOT HAVE PERMISSION TO ACCESS THE APP.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+You cannot accept these Terms if: (i) you are not lawfully entitled to use the App under any applicable laws in the country in which you are located or resident; or (ii) if you are not of legal age to form a binding agreement with Administration. By accepting these terms you acknowledge and agree that you have reached the age to enter into such binding agreement in the country in which you are located or resident or that you have your parent or legal guardian’s permission if required by applicable law. It is your responsibility to ensure that you are legally allowed to enter into this Agreement and that you do not violate any applicable laws.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+Blue Mountain Studios, LLC and third party providers may make improvements and/or changes in the capabilities, features, prices, and availability of the App at any time without notice. You agree that we shall not be liable to you or to any third party for any modification, suspension, or discontinuance of the App or any portion thereof.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## Subscription Payments, Renewals, and Cancellation
+Some parts of the App are billed on a subscription basis ("Subscription(s)"). If you choose to purchase a Subscription, payment will be charged to your Apple ID on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set either on a weekly, monthly, or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
 
-<br>
+Your Subscription will automatically renew under the exact same conditions unless it is canceled at least 24 hours before the end of the current Billing Cycle. Your account will be charged for renewal within 24 hours prior to the end of the current Billing Cycle. You may manage or cancel your Subscription by going to your account settings on the App Store after purchase.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+We do not send invoices to customers that purchase a Subscription. Your account balance information can be accessed by going to your account settings on the App Store after purchase.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+### Fee Changes
+We may, at any time and in our sole discretion, modify Subscription fees for the Subscriptions.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+### Trial Subscriptions
+The App may offer a free trial subscription period during which you can use all features of the App for a limited period of time. If you fail to cancel your free trial subscription, you agree to be billed according to the terms set forth in the section of these terms entitled "Subscription Payments, Renewals, and Cancellation".
 
-<br>
+### Refunds and Billing Disputes
+All purchases are final. We cannot issue refunds for purchases charged to your Apple ID. If you have a billing dispute, you must contact the App Store to seek a remedy.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## Intellectual Property
+The App and its original content, features and functionality are and will remain the exclusive property of us and our licensors. The App is protected by copyright, trademark, and other laws of both the United States and foreign countries.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## Links to Other Web Sites
+Our App may contain links to third party web sites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+You acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.
 
-<br>
+We strongly advise you to read the terms of use and privacy policies of any third party web sites or services that you visit.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## Content
+The App does not guarantee the availability or accuracy of any insights, analysis, or schedules (Content) produced or generated within the App. You retain any and all of your rights to any Content you submit, post or display on or through the App and you are responsible for protecting those rights. We take no responsibility and assume no liability for Content you or any third party transcribe on or through the App. However, by producing Content using the App you grant us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through the App. You agree that this license includes the right for us to make your Content available to other users of the App, who may also use your Content subject to these Terms.
 
-<br>
+## Indemnification
+You agree to defend, indemnify and hold harmless Blue Mountain Studios, LLC and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the App, by you or any person using your account and password; b) a breach of these Terms, or c) Content posted or shared on the App.
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## Limitation of Liability
+In no event shall Blue Mountain Studios, LLC, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, injuries or any other damage that might occur to your health, loss of profits, loss of data, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the App; (ii) any conduct or content of any third party on the App; (iii) any Content obtained from the App; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+
+## Disclaimers
+Your use of the App is at your sole risk. The App is provided on an "AS IS" and "AS AVAILABLE" basis. The App is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+
+We and our affiliates and licensors do not warrant that a) the App will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the App is free of viruses or other harmful components; or d) the results of using the App will meet your requirements.
+
+## Termination
+We may terminate or bar access to the App immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
+
+If you wish to terminate your account, you may simply discontinue using the App.
+
+All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+
+## Governing Law
+These Terms shall be governed and construed in accordance with the laws of Alabama, United States, without regard to its conflict of law provisions.
+
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our App, and supersede and replace any prior agreements we might have had between us regarding the App.
+
+## Changes to These Terms
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our App after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the App.
+
+## Contacting Us
+If you have any questions regarding these Terms of Service, you may email [support@lemonschedules.com](mailto:support@lemonschedules.com).

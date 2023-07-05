@@ -282,6 +282,8 @@ nav > ul li a:active {
 
 .appName {
 	color: $app-title-color;
+	font-family: "Pacifico", sans-serif;
+	font-size: 2em;
 }
 
 .appPrice {
@@ -302,6 +304,8 @@ nav > ul li a:active {
 	.appName {
 		margin-top: 30px;
 		text-align: center;
+		font-family: "Pacifico", sans-serif;
+		font-size: 2em;
 	}
 	
 	.appPrice {
@@ -611,6 +615,8 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	padding-top: 70px;
+	padding-bottom: 70px;
 }
 
 .footerText {
@@ -619,21 +625,23 @@ footer {
 	line-height: 1.5;
 	width: 100%;
 	text-align: center;
-	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .footerIcons {
-	padding-bottom: 70px;
 	display: flex;
 	flex: 0 0 100%;
 	justify-content: center;
+	padding-top: 32px;
+	padding-bottom: 32px;
 }
 
 .footerLinks {
 	display: flex;
 	text-align: center;
-	padding-bottom: 70px;
+	padding-top: 32px;
+	padding-bottom: 32px;
 }
 
 .footerLinks a {

@@ -5,56 +5,61 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+July 4, 2023
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+This policy applies to all information collected or submitted on this website (the "Website") and the Lemon Schedules app published by Blue Mountain Studios, LLC (the "App(s)").
 
-<br>
+Lemon Schedules takes personal privacy seriously. We limit the collection of personal information to cases where we truly need it or is required for the operation of our products. Personal information is never shared except to comply by the law, develop and improve our products, or protect our rights.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## Your Personal Data
+All student, scheduling, and other information entered into the app is stored securely on your device and cannot be accessed by us.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+## Information We Collect
+### Debugging Data
+We use Apple's opt-in crash reporting service to improve the quality of Lemon Schedules. Your device type, OS version, and time of the crash will be viewable by us. No personally identifiable information is uploaded during this process.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+When you access the App, we may collect certain information automatically, including, but not limited to, the type of device you use, the IP address of your device, your operating system, and other statistics.
 
-<br>
+### Randomly Generated Identifiers & User Identifiers
+We employ randomly generated identifiers to anonymously identify users. Your anonymous user identifier can be synchronized across your devices through iCloud. Additionally, you have the option to sign in to our App and Website using Sign in with Apple, which assigns you a user ID. These IDs are linked to data transmitted to RevenueCat and are included in any log files you share with us. Although the ID may be associated with your device and/or Apple ID, we are unable to trace or connect it back to you unless you voluntarily provide us with the ID.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+### Analytics and Purchase Data
+No personally identifiable, scheduling, or student information is uploaded from your device. Therefore, this data cannot be accessed by us without your permission.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+We use Apple as a payment provider for paid subscriptions. Apple's Privacy Policy can be found [here](https://www.apple.com/legal/privacy/en-ww/).
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+We use RevenueCat to manage trial and subscriptions purchases of Lemon Schedules Pro. To manage these transactions, we send RevenueCat your anonymous user ID, user ID (if applicable), and the details of which item you are purchasing. Since Apple processes the transactions, no credit card, student, schedule, or personally identifiable information is ever sent to RevenueCat. You may view RevenueCat's privacy policy [here](https://www.revenuecat.com/privacy/).
 
-<br>
+### Application Logs & Diagnostics
+To assist us in diagnosing issues with the App, you may optionally send Application Logs & Diagnostics from the App. Doing so will send technical log information to the recipient of the diagnostics email. These logs may contain details about your device and interactions with the App, but they do not contain student, scheduling, or personally identifiable information.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## Information Usage
+We use the information we collect to operate and improve the Website, the App, and customer support. We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property. In the future, we may sell to, buy, merge with, or partner with other businesses. In such transactions, user information may be among the transferred assets.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## Compliance
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+### HIPAA
+We cannot access any health information submitted by users. We are not a HIPAA covered entity nor a business associate by definition of Pub.L. 104-191. Should the user be a HIPAA covered entity or business associate or act within the bounds of a HIPAA covered entity's rule, it is within their discretion to use the App and we accept none of the liability for any potential physical or electronic security threats or breaches. For further information regarding protection of PHI and Pub.L. 104-191 also known as HIPAA, please visit HHS.gov and review your covered entity's HIPAA compliance policies as well as your state's HIPAA compliance policies.
 
-<br>
+### Children’s Online Privacy Protection Act
+We never collect or maintain information at the Website or through the App from those we actually know are under 13, and no part of the Website or the App is structured to attract anyone under 13.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+### California Online Privacy Protection Act
+We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-<br>
+### Information for European Union Customers
+By using our services and providing your information, you authorize us and our partners to collect, use, and store your information outside of the European Union.
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+### International Transfers of Information
+Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.
+
+## Your Consent
+By using the Website or the App, you consent to this privacy policy.
+
+## Contacting Us
+If you have any questions regarding this privacy policy, you may email [support@lemonschedules.com](mailto:support@lemonschedules.com).
+
+## Changes to This Policy
+We reserve the right to change or update this policy at any time. If we decide to change or update the privacy policy, we will post the changes on this page.
