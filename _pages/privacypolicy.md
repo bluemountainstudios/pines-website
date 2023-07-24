@@ -22,8 +22,8 @@ We use Apple's opt-in crash reporting service to improve the quality of Lemon Sc
 
 When you access the App, we may collect certain information automatically, including, but not limited to, the type of device you use, the IP address of your device, your operating system, and other statistics.
 
-### Randomly Generated Identifiers & User Identifiers
-We employ randomly generated identifiers to anonymously identify users. Your anonymous user identifier can be synchronized across your devices through iCloud. Additionally, you have the option to sign in to our App and Website using Sign in with Apple, which assigns you a user ID. These IDs are linked to data transmitted to RevenueCat and are included in any log files you share with us. Although the ID may be associated with your device and/or Apple ID, we are unable to trace or connect it back to you unless you voluntarily provide us with the ID.
+### Randomly Generated Identifiers
+We employ randomly generated identifiers to anonymously identify users. These IDs are linked to data transmitted to RevenueCat and are included in any log files you share with us. Although the ID may be associated with your device and/or Apple ID, we are unable to trace or connect it back to you unless you voluntarily provide us with the ID.
 
 ### Analytics and Purchase Data
 No personally identifiable, scheduling, or student information is uploaded from your device. Therefore, this data cannot be accessed by us without your permission.
