@@ -49,7 +49,7 @@ features                                  :
     fontawesome_icon_name                 : fa-solid fa-magnifying-glass
 
   - title                                 : Schedule Auditing
-    description                           : We’ll double check your schedule to make sure your schedule meets all of your requirements.
+    description                           : We'll double check your schedule to make sure your schedule meets all of your requirements.
     fontawesome_icon_name                 : stethoscope
 
   - title                                 : Privacy First
@@ -71,7 +71,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#4D9B6F"
+link_color                                : "#4DB834"
 
 app_title_color                           : "#000000"
 app_price_color                           : "#ffffff"
@@ -80,7 +80,7 @@ app_description_color                     : "#000000"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#4D9B6F"
+feature_icons_foreground_color            : "#4DB834"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
