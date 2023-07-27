@@ -74,4 +74,4 @@ Our failure to enforce any right or provision of these Terms will not be conside
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our App after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the App.
 
 ## Contacting Us
-If you have any questions regarding these Terms of Service, you may email [support@lemonschedules.com](mailto:support@lemonschedules.com).
+If you have any questions regarding these Terms of Service, you may email [hello@lemonschedules.com](mailto:hello@lemonschedules.com).

@@ -61,7 +61,7 @@ Information may be processed, stored, and used outside of the country in which y
 By using the Website or the App, you consent to this privacy policy.
 
 ## Contacting Us
-If you have any questions regarding this privacy policy, you may email [support@lemonschedules.com](mailto:support@lemonschedules.com).
+If you have any questions regarding this privacy policy, you may email [hello@lemonschedules.com](mailto:hello@lemonschedules.com).
 
 ## Changes to This Policy
 We reserve the right to change or update this policy at any time. If we decide to change or update the privacy policy, we will post the changes on this page.
