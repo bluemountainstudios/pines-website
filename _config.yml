@@ -5,7 +5,7 @@ page_title                                :                                     
 ios_app_id                                : 6448481123                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/us/app/lemon-schedules/id6448481123                                        # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Blue Mountain Studios, LLC                              
 your_link                                 : https://www.bluemountainstudios.net                     
 your_city                                 : Birmingham, AL                                
-email_address                             : support@lemonschedules.com
+email_address                             : hellot@lemonschedules.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 

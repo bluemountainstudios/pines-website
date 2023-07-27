@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 24, 2023
+July 27, 2023
 
 # Privacy Policy
 
@@ -18,7 +18,9 @@ All student, scheduling, and other information entered into the app is stored se
 
 ## Information We Collect
 ### Debugging Data
-We use Apple's opt-in crash reporting service to improve the quality of Lemon Schedules. Your device type, OS version, and time of the crash will be viewable by us. No personally identifiable information is uploaded during this process.
+We use Sentry Apple's opt-in crash reporting service to improve the quality of Lemon Schedules. Your device type, OS version, and time of the crash will be viewable by us. No personally identifiable information is uploaded during this process.
+
+Sentry's privacy policy can be found [here](https://sentry.io/privacy/).
 
 When you access the App, we may collect certain information automatically, including, but not limited to, the type of device you use, the IP address of your device, your operating system, and other statistics.
 
