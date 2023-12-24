@@ -5,10 +5,10 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 4, 2023
+December 23, 2023
 
 # Terms of Service
-Please read these Terms of Use, including those set forth in the Privacy Policy ("Terms", "Terms of Use") carefully before using the Lemon Schedules application (the "App") made available by Blue Mountain Studios, LLC ("us", "we", or "our").
+Please read these Terms of Use, including those set forth in the Privacy Policy ("Terms", "Terms of Use") carefully before using the Pines application (the "App") made available by Blue Mountain Studios, LLC ("us", "we", or "our").
 
 Your access to and use of the App is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the App.
 
@@ -45,7 +45,7 @@ You acknowledge and agree that we shall not be responsible or liable, directly o
 We strongly advise you to read the terms of use and privacy policies of any third party web sites or services that you visit.
 
 ## Content
-The App does not guarantee the availability or accuracy of any insights, analysis, or schedules (Content) produced or generated within the App. You retain any and all of your rights to any Content you submit, post or display on or through the App and you are responsible for protecting those rights. We take no responsibility and assume no liability for Content you or any third party transcribe on or through the App. However, by producing Content using the App you grant us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through the App. You agree that this license includes the right for us to make your Content available to other users of the App, who may also use your Content subject to these Terms.
+The App does not guarantee the availability or accuracy of any insights, analysis, or information (Content) produced or generated within the App. You retain any and all of your rights to any Content you submit, post or display on or through the App and you are responsible for protecting those rights. We take no responsibility and assume no liability for Content you or any third party transcribe on or through the App. However, by producing Content using the App you grant us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through the App. You agree that this license includes the right for us to make your Content available to other users of the App, who may also use your Content subject to these Terms.
 
 ## Indemnification
 You agree to defend, indemnify and hold harmless Blue Mountain Studios, LLC and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the App, by you or any person using your account and password; b) a breach of these Terms, or c) Content posted or shared on the App.
@@ -74,4 +74,4 @@ Our failure to enforce any right or provision of these Terms will not be conside
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our App after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the App.
 
 ## Contacting Us
-If you have any questions regarding these Terms of Service, you may email [hello@lemonschedules.com](mailto:hello@lemonschedules.com).
+If you have any questions regarding these Terms of Service, you may email [will@bluemountainstudios.net](mailto:will@bluemountainstudios.net).
