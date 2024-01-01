@@ -651,13 +651,11 @@ nav > ul li a:active {
 		align-items: center; /* Centers the image vertically */
 		width: 100%;
 		padding-bottom: 16px;
-		background-color: blue;
 	}
 
 	.featureImage img {
 		max-width: 100%; /* Make the image take full width of its container */
 		max-height: 650px; /* Maintain aspect ratio */
-		background-color: blue;
 	}
 
 	.feature:nth-child(-n+3) {
