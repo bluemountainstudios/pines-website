@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/app-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Pines                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Discover your next outdoor adventure with Pines 🏕️
+app_description                           : Discover the great outdoors with Pines, your ultimate camping campanion.<br><br>Elegantly crafted and filled to the brim with camping experience, Pines unfolds a world of serene campsites, inviting you to explore nature's most peaceful retreats.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,9 +36,29 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : It's Pines!
-    description                           : Use Pines your way! Enter data easily using a spreadsheet or directly enter it into the app. When you’re done, export your schedule to your calendar app or to a spreadsheet. 
+  - title                                 : Know Where You're Going
+    description                           : Whether it's an epic National Park or a humble State Park in your backyard, Pines can show you the way.
     fontawesome_icon_name                 : calendar
+    even_or_odd                           : even
+    image_url                             : assets/screenshot/2.png
+  
+  - title                                 : What to Do
+    description                           : TODO - What to do text goes here...explain how the app shows you what you can do
+    fontawesome_icon_name                 : calendar
+    even_or_odd                           : odd
+    image_url                             : assets/screenshot/3.png
+
+  - title                                 : Plan Ahead
+    description                           : Know what the weather looks like before you go.
+    fontawesome_icon_name                 : calendar
+    even_or_odd                           : even
+    image_url                             : assets/screenshot/4.png
+
+  - title                                 : Always Know What You'll Find at That Campsite
+    description                           : With Pines, you'll always know what to expect when you arrive at that campsite.
+    fontawesome_icon_name                 : calendar
+    even_or_odd                           : full
+    image_url                             : assets/screenshot/5.png
 
 bottom_paragraph                          : Pines is a family operation. The concept for Pines came from brainstorming solutions to real life challenges at the dinner table. Thanks for supporting our small business and joining our family!
 
@@ -55,16 +75,16 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#4DB834"
+link_color                                : "#5E936F"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
+feature_title_color                       : "#5E936F"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#4DB834"
+feature_icons_foreground_color            : "#5E936F"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"

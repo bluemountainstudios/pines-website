@@ -32,6 +32,32 @@
 	background-color: #fff;
 }
 
+.icon-title-container {
+    display: flex;
+    align-items: start; /* Aligns items vertically in the center */
+}
+
+.icon-title-container i {
+    margin-right: 8px; /* Adds some space between the icon and the title */
+}
+
+.horizontal-feature-container {
+    display: flex;
+    align-items: start; /* Align items to the top */
+	justify-content: center;
+}
+
+.horizontal-feature-container .vertical-feature-container {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    margin-left: 8px; /* Space between the icon and the text */
+}
+
+.horizontal-feature-container i {
+    /* Style your icon here */
+    margin-right: 8px; /* Adds space between the icon and the vertical container */
+}
+
 .container {					// Set up the container for the site content
 	display: grid;
 	margin: auto;
@@ -282,14 +308,22 @@ nav > ul li a:active {
 
 .appName {
 	color: $app-title-color;
-	font-family: "Pacifico", sans-serif;
-	font-size: 2em;
+	font-family: "Oswald", sans-serif;
+	font-weight: bold;
+	font-size: 3em;
 }
 
 .appPrice {
 	color: $app-price-color;
 	font-weight: normal;
 	margin-top: 13px;
+}
+
+.mainScreenshot {
+	grid-area: p;
+	background-image: url("assets/screenshot/1.png");
+	background-size: 400px auto;
+	background-repeat: no-repeat;
 }
 
 @media only screen and (max-width: 768px) {
@@ -304,8 +338,9 @@ nav > ul li a:active {
 	.appName {
 		margin-top: 30px;
 		text-align: center;
-		font-family: "Pacifico", sans-serif;
-		font-size: 2em;
+		font-family: "Oswald", sans-serif;
+		font-weight: bold;
+		font-size: 3em;
 	}
 	
 	.appPrice {
@@ -378,26 +413,6 @@ nav > ul li a:active {
 	height: 75px;
 }
 
-
-
-// iPhone Device Preview
-
-.iphonePreview {
-	grid-area: p;
-	background-image: url($device-color);
-	background-size: 400px auto;
-	background-repeat: no-repeat;
-	margin-top: 68px;
-}
-
-.iphoneScreen {
-	width: 349px;
-	-webkit-clip-path: url(#screenMask);
-	clip-path: url(#screenMask);
-	margin-left: 26px;
-	margin-top: 23px;
-}
-
 .videoContainer {
 	width: 349px;
 	height: 755px;
@@ -414,7 +429,7 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 1070px) {
 
-	.iphonePreview {
+	.mainScreenshot {
 		background-size: 370px auto;
 	}
 
@@ -440,13 +455,12 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 992px) {
 
-	.iphonePreview {
+	.mainScreenshot {
 		display: flex;
 		background-size: 260px auto;
 		background-position: center 0;
-		margin-top: 47px;
 		justify-content: center;
-		padding-bottom: 75px;
+		padding-bottom: 564px;
 	}
 
 	.iphoneScreen {
@@ -486,14 +500,6 @@ nav > ul li a:active {
 	margin-top: 93px;
 }
 
-.feature {
-	display: flex;
-	padding-top: 63px;
-	padding-left: 15px;
-	padding-right: 15px;
-	width: calc(100%/3);
-}
-
 .feature:nth-child(-n+3) {
     padding-top: 0px;   
 }
@@ -522,8 +528,49 @@ nav > ul li a:active {
 	color: $social-icons-foreground-color;
 }
 
+.feature {
+    display: flex;
+    align-items: center;
+    padding-top: 63px;
+    padding-left: 16px;
+    padding-right: 16px;
+	padding-bottom: 32px;
+    width: 100%;
+}
+
+.fullpageFeatureImage {
+    // display: flex;
+    justify-content: center; /* Centers the image horizontally */
+    align-items: center; /* Centers the image vertically */
+	flex: 0 0 100%; /* Fixed 75% width, not flexible */
+	max-width: 100%;
+	padding-bottom: 16px;
+}
+
+.fullpageFeatureImage img {
+    max-width: 100%; /* Make the image take full width of its container */
+    // max-height: 650px; /* Maintain aspect ratio */
+}
+
+.featureImage {
+    display: flex;
+    justify-content: center; /* Centers the image horizontally */
+    align-items: center; /* Centers the image vertically */
+    // width: 75%;
+	flex: 0 0 50%; /* Fixed 75% width, not flexible */
+	max-width: 50%
+}
+
+.featureImage img {
+    max-width: 100%; /* Make the image take full width of its container */
+    max-height: 650px; /* Maintain aspect ratio */
+}
+
 .featureText {
-	margin-left: 18px;
+	flex: 1; /* Each child takes up equal space */
+    // width: 25%; /* Explicitly set each child to take half the width */
+	flex: 0 0 50%; /* Fixed 25% width, not flexible */
+    max-width: 50%; /* Ensure it never exceeds 25% */
 }
 
 .featureText > h3 {
@@ -540,7 +587,7 @@ nav > ul li a:active {
 
 	.features {
 		flex-grow: 1;
-		flex-direction: row;
+		flex-direction: column;
 		flex-wrap: wrap;
 		margin-top: 11px;
 	}
@@ -548,9 +595,23 @@ nav > ul li a:active {
 	.feature {
 		display: flex;
 		padding-top: 41px;
+		flex-direction: column;
 		padding-left: 15px;
 		padding-right: 15px;
 		width: 100%;
+	}
+
+	.featureImage {
+		display: flex;
+		justify-content: center; /* Centers the image horizontally */
+		align-items: center; /* Centers the image vertically */
+		width: 100%;
+		padding-bottom: 16px;
+	}
+
+	.featureText {
+		flex: 1; /* Each child takes up equal space */
+		width: 50%; /* Explicitly set each child to take half the width */
 	}
 
 	.feature:nth-child(-n+3) {

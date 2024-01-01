@@ -39,6 +39,19 @@ body {
 	background-color: $body-color;
 }
 
+horizontal-feature-container {
+	color: $feature-title-color;
+}
+
+.featureTitle {
+	// font-family: "Oswald", sans-serif;
+	font-weight: bold;
+}
+
+.featureIcon {
+	color: $feature-title-color;
+}
+
 a:link,
 a:hover,
 a:visited,

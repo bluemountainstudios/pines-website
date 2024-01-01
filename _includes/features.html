@@ -1,26 +1,71 @@
 <div class="features">
-
     {% for feature in site.features %}
+        {% if feature.title %}
+            {% if feature.even_or_odd == "even" %}
 
-    {% if feature.title %}
-    <div class="feature">
-        <div>
-            <span class="fa-stack fa-1x">
-                <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
-            </span>
-        </div>
-        <div class="featureText">
-            <h3>
-                {{ feature.title }}
-            </h3>
-            <p>
-                {{ feature.description }}
-            </p>
-        </div>
-    </div>
-    {% endif %}
+            <div class="feature">
+                <!-- Image container -->
+                <div class="featureImage">
+                    <img src="{{ feature.image_url }}" alt="{{ feature.image_url }}">
+                </div>
 
+                <!-- Text container -->
+                <div class="horizontal-feature-container">
+                    <!-- Icon -->
+                    <i class="featureIcon fas fa-{{ feature.fontawesome_icon_name }}"></i>
+                
+                    <div class="vertical-feature-container featureText">
+                        <h3 class="featureTitle">{{ feature.title }}</h3>
+                        <p>{{ feature.description }}</p>
+                    </div>
+                </div>
+            </div>
+
+            {% elsif feature.even_or_odd == "odd" %}
+
+            <div class="feature">
+                <!-- Text container -->
+                <div class="horizontal-feature-container">
+                    <!-- Icon -->
+                    <i class="featureIcon fas fa-{{ feature.fontawesome_icon_name }}"></i>
+                
+                    <div class="vertical-feature-container featureText">
+                        <h3 class="featureTitle">{{ feature.title }}</h3>
+                        <p>{{ feature.description }}</p>
+                    </div>
+                </div>
+
+                <!-- Image container -->
+                <div class="featureImage">
+                    <img src="{{ feature.image_url }}" alt="{{ feature.image_url }}">
+                </div>
+            </div>
+
+            {% elsif feature.even_or_odd == "full" %}
+
+            <!-- Text container -->
+            <div>
+                <!-- Image container -->
+                <div class="fullpageFeatureImage">
+                    <img src="{{ feature.image_url }}" alt="{{ feature.image_url }}">
+                </div>
+
+                <div class="horizontal-feature-container">
+                     <!-- Icon -->
+                     <i class="featureIcon fas fa-{{ feature.fontawesome_icon_name }}"></i>
+                    <div class="vertical-feature-container featureText">
+                        <h3 class="featureTitle">{{ feature.title }}</h3>
+                        <p>{{ feature.description }}</p>
+                    </div>
+    
+                   
+                </div>
+    
+                
+            </div>
+
+            {% endif %}
+            
+        {% endif %}
     {% endfor %}
-
 </div>
