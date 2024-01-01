@@ -41,23 +41,6 @@
     margin-right: 8px; /* Adds some space between the icon and the title */
 }
 
-.horizontal-feature-container {
-    display: flex;
-    align-items: start; /* Align items to the top */
-	justify-content: center;
-}
-
-.horizontal-feature-container .vertical-feature-container {
-    display: flex;
-    flex-direction: column; /* Stack items vertically */
-    margin-left: 8px; /* Space between the icon and the text */
-}
-
-.horizontal-feature-container i {
-    /* Style your icon here */
-    margin-right: 8px; /* Adds space between the icon and the vertical container */
-}
-
 .container {					// Set up the container for the site content
 	display: grid;
 	margin: auto;
@@ -566,21 +549,15 @@ nav > ul li a:active {
     max-height: 650px; /* Maintain aspect ratio */
 }
 
+.featureDescription {
+	padding-right: 16px;
+	padding-left: 16px;
+}
+
 .featureText {
-	flex: 1; /* Each child takes up equal space */
-    // width: 25%; /* Explicitly set each child to take half the width */
-	flex: 0 0 50%; /* Fixed 25% width, not flexible */
-    max-width: 50%; /* Ensure it never exceeds 25% */
-}
-
-.featureText > h3 {
-	color: $feature-title-color;
-}
-
-.featureText > p {
 	color: $feature-text-color;
 	margin-top: 8px;
-	line-height: 1.5;
+	line-height: 1.25;
 }
 
 @media only screen and (max-width: 992px) {
@@ -589,29 +566,50 @@ nav > ul li a:active {
 		flex-grow: 1;
 		flex-direction: column;
 		flex-wrap: wrap;
-		margin-top: 11px;
+		margin-top: 12px;
 	}
+
+	.feature.odd-feature {
+        flex-direction: column-reverse;
+    }
 
 	.feature {
 		display: flex;
 		padding-top: 41px;
 		flex-direction: column;
-		padding-left: 15px;
-		padding-right: 15px;
+		padding-left: 16px;
+		padding-right: 16px;
 		width: 100%;
 	}
+
+	.featureText, .featureImage {
+        // flex: 1 0 100%; /* Each child takes up equal space and full width */
+        max-width: 100%; /* Ensure it never exceeds 100% of the parent's width */
+    }
 
 	.featureImage {
 		display: flex;
 		justify-content: center; /* Centers the image horizontally */
 		align-items: center; /* Centers the image vertically */
 		width: 100%;
+		max-width: 100%;
+		max-height: 650px;
 		padding-bottom: 16px;
+		height: auto; /* AdjuZst height automatically to maintain aspect ratio */
+    	object-fit: contain; /* Maintain the aspect ratio and ensure the image fits within its container */
+	}
+
+	.featureImage img {
+		width: 100%;
+		max-width: 100%; /* Make the image take full width of its container */
+		object-fit: contain;
+		height: auto;
 	}
 
 	.featureText {
 		flex: 1; /* Each child takes up equal space */
-		width: 50%; /* Explicitly set each child to take half the width */
+		width: 100%; /* Explicitly set each child to take half the width */
+		flex-direction: column;
 	}
 
 	.feature:nth-child(-n+3) {
@@ -623,11 +621,11 @@ nav > ul li a:active {
 	}
 
 	.feature:nth-child(3n) {
-		padding-right: 15px;
+		padding-right: 16px;
 	}
 	
 	.feature:nth-child(3n+1) {
-		padding-left: 15px;
+		padding-left: 16px;
 	}
 	
 }
@@ -647,6 +645,21 @@ nav > ul li a:active {
 		padding-left: 0px;
 		padding-right: 0px;
 		width: 100%;
+	}
+
+	.featureImage {
+		display: flex;
+		justify-content: center; /* Centers the image horizontally */
+		align-items: center; /* Centers the image vertically */
+		width: 100%;
+		padding-bottom: 16px;
+		background-color: blue;
+	}
+
+	.featureImage img {
+		max-width: 100%; /* Make the image take full width of its container */
+		max-height: 650px; /* Maintain aspect ratio */
+		background-color: blue;
 	}
 
 	.feature:nth-child(-n+3) {

@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/app-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Pines                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Discover the great outdoors with Pines, your ultimate camping campanion.<br><br>Elegantly crafted and filled to the brim with camping experience, Pines unfolds a world of serene campsites, inviting you to explore nature's most peaceful retreats.
+app_description                           : Discover the great outdoors with Pines, your ultimate camping campanion.<br><br>Pines reveals a world of serene campsites, inviting you to explore nature's most peaceful retreats.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,31 +36,31 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Know Where You're Going
-    description                           : Whether it's an epic National Park or a humble State Park in your backyard, Pines can show you the way.
-    fontawesome_icon_name                 : calendar
+  - title                                 : Chart Your Next Camping Expedition 
+    name                                  : Hundreds of Camping Locations
+    description                           : From National Parks across the country to State Parks in your backyard, discover your next adventure with Pines.
     even_or_odd                           : even
     image_url                             : assets/screenshot/2.png
   
-  - title                                 : What to Do
-    description                           : TODO - What to do text goes here...explain how the app shows you what you can do
-    fontawesome_icon_name                 : calendar
+  - title                                 : Explore Before You Arrive 
+    name                                  : Park Activities
+    description                           : Pines reveals every park's hidden gems – from serene nature walks to thrilling bike trails, know what awaits you.
     even_or_odd                           : odd
     image_url                             : assets/screenshot/3.png
 
-  - title                                 : Plan Ahead
-    description                           : Know what the weather looks like before you go.
-    fontawesome_icon_name                 : calendar
+  - title                                 : Camp Confidently
+    name                                  : Up to Date Forecasts & Historical Climate Info
+    description                           : Stay ahead of the weather! Before you head out, check out our up-to-date forecasts and monthly climate data to plan for a comfortable trip.
     even_or_odd                           : even
     image_url                             : assets/screenshot/4.png
 
-  - title                                 : Always Know What You'll Find at That Campsite
-    description                           : With Pines, you'll always know what to expect when you arrive at that campsite.
-    fontawesome_icon_name                 : calendar
+  - title                                 : Your Campsite Companion
+    name                                  : Campsite Info
+    description                           : Navigate your camping adventure with ease. Our extensive campsite details, including forecasts, regulations, and directions make your trip a hassle-free one.
     even_or_odd                           : full
     image_url                             : assets/screenshot/5.png
 
-bottom_paragraph                          : Pines is a family operation. The concept for Pines came from brainstorming solutions to real life challenges at the dinner table. Thanks for supporting our small business and joining our family!
+bottom_paragraph                          : Born from our family's love for camping and a few unexpected twists on the trail, Pines is here to ensure your adventures are perfectly planned. Go outdoors and embrace the wilderness with confidence!
 
 # Theme Settings
 topbar_color                              : "#000000"
@@ -81,7 +81,8 @@ app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#5E936F"
+feature_title_color                       : "#000000"
+feature_name_color                        : "#5E936F"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#5E936F"

@@ -1,71 +1,56 @@
 <div class="features">
     {% for feature in site.features %}
-        {% if feature.title %}
-            {% if feature.even_or_odd == "even" %}
+    {% if feature.title %}
+    {% if feature.even_or_odd == "even" %}
 
-            <div class="feature">
-                <!-- Image container -->
-                <div class="featureImage">
-                    <img src="{{ feature.image_url }}" alt="{{ feature.image_url }}">
-                </div>
+    <div class="feature">
+        <!-- Image container -->
+        <div class="featureImage">
+            <img src="{{ feature.image_url }}" alt="{{ feature.image_url }}">
+        </div>
 
-                <!-- Text container -->
-                <div class="horizontal-feature-container">
-                    <!-- Icon -->
-                    <i class="featureIcon fas fa-{{ feature.fontawesome_icon_name }}"></i>
-                
-                    <div class="vertical-feature-container featureText">
-                        <h3 class="featureTitle">{{ feature.title }}</h3>
-                        <p>{{ feature.description }}</p>
-                    </div>
-                </div>
-            </div>
+        <!-- Text container -->
+        <div class="featureDescription">
+            <h5 class="featureName">{{ feature.name }} </h5>
+            <h3 class="featureTitle">{{ feature.title }}</h3>
+            <p class="featureText">{{ feature.description }}</p>
+        </div>
+    </div>
 
-            {% elsif feature.even_or_odd == "odd" %}
+    {% elsif feature.even_or_odd == "odd" %}
 
-            <div class="feature">
-                <!-- Text container -->
-                <div class="horizontal-feature-container">
-                    <!-- Icon -->
-                    <i class="featureIcon fas fa-{{ feature.fontawesome_icon_name }}"></i>
-                
-                    <div class="vertical-feature-container featureText">
-                        <h3 class="featureTitle">{{ feature.title }}</h3>
-                        <p>{{ feature.description }}</p>
-                    </div>
-                </div>
+    <div class="feature odd-feature">
+        <div class="featureDescription">
+            <h5 class="featureName">{{ feature.name }} </h5>
+            <h3 class="featureTitle">{{ feature.title }}</h3>
+            <p class="featureText">{{ feature.description }}</p>
+        </div>
 
-                <!-- Image container -->
-                <div class="featureImage">
-                    <img src="{{ feature.image_url }}" alt="{{ feature.image_url }}">
-                </div>
-            </div>
+        <!-- Image container -->
+        <div class="featureImage">
+            <img src="{{ feature.image_url }}" alt="{{ feature.image_url }}">
+        </div>
+    </div>
 
-            {% elsif feature.even_or_odd == "full" %}
+    {% elsif feature.even_or_odd == "full" %}
 
-            <!-- Text container -->
-            <div>
-                <!-- Image container -->
-                <div class="fullpageFeatureImage">
-                    <img src="{{ feature.image_url }}" alt="{{ feature.image_url }}">
-                </div>
+    <div>
+        <!-- Image container -->
+        <div class="fullpageFeatureImage">
+            <img src="{{ feature.image_url }}" alt="{{ feature.image_url }}">
+        </div>
 
-                <div class="horizontal-feature-container">
-                     <!-- Icon -->
-                     <i class="featureIcon fas fa-{{ feature.fontawesome_icon_name }}"></i>
-                    <div class="vertical-feature-container featureText">
-                        <h3 class="featureTitle">{{ feature.title }}</h3>
-                        <p>{{ feature.description }}</p>
-                    </div>
-    
-                   
-                </div>
-    
-                
-            </div>
+        <div class="featureDescription">
+            <h5 class="featureName">{{ feature.name }} </h5>
+            <h3 class="featureTitle">{{ feature.title }}</h3>
+            <p class="featureText">{{ feature.description }}</p>
+        </div>
 
-            {% endif %}
-            
-        {% endif %}
+
+    </div>
+
+    {% endif %}
+
+    {% endif %}
     {% endfor %}
 </div>

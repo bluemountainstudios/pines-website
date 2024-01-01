@@ -39,13 +39,15 @@ body {
 	background-color: $body-color;
 }
 
-horizontal-feature-container {
-	color: $feature-title-color;
-}
-
 .featureTitle {
 	// font-family: "Oswald", sans-serif;
 	font-weight: bold;
+	font-size: 2em;
+}
+
+.featureName {
+	color: $feature-name-color;
+	
 }
 
 .featureIcon {
