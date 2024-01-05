@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last Updated**  
-December 23, 2023
+January 5, 2024
 
 # Privacy Policy
 
@@ -64,7 +64,7 @@ Information may be processed, stored, and used outside of the country in which y
 By using the Website or the App, you consent to this privacy policy.
 
 ## Contacting Us
-If you have any questions regarding this privacy policy, you may email [will@bluemountainstudios.net](mailto:will@bluemountainstudios.net).
+If you have any questions regarding this privacy policy, you may email [hello@getpines.app](mailto:hello@getpines.app).
 
 ## Changes to This Policy
 We reserve the right to change or update this policy at any time. If we decide to change or update the privacy policy, we will post the changes on this page.

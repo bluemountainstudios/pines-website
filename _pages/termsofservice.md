@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-December 23, 2023
+January 5, 2024
 
 # Terms of Service
 Please read these Terms of Use, including those set forth in the Privacy Policy ("Terms", "Terms of Use") carefully before using the Pines application (the "App") made available by Blue Mountain Studios, LLC ("us", "we", or "our").
@@ -74,4 +74,4 @@ Our failure to enforce any right or provision of these Terms will not be conside
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our App after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the App.
 
 ## Contacting Us
-If you have any questions regarding these Terms of Service, you may email [will@bluemountainstudios.net](mailto:will@bluemountainstudios.net).
+If you have any questions regarding these Terms of Service, you may email [hello@getpines.app](mailto:hello@getpines.app).
