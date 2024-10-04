@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last Updated**  
-January 5, 2024
+October 4, 2024
 
 # Privacy Policy
 
@@ -22,10 +22,10 @@ Sentry's privacy policy can be found [here](https://sentry.io/privacy/).
 When you access the App, we may collect certain information automatically, including, but not limited to, the type of device you use, the IP address of your device, your operating system, and other statistics.
 
 ### Randomly Generated Identifiers
-We employ randomly generated identifiers to anonymously identify users. These IDs are linked to data transmitted to RevenueCat, Sentry, Mixpanel, and other third party services and are included in any log files you share with us. Although the ID may be associated with your device and/or Apple ID, we are unable to trace or connect it back to you unless you voluntarily provide us with the ID.
+We employ randomly generated identifiers to anonymously identify users. These IDs are linked to data transmitted to RevenueCat, Sentry, Posthog, and other third party services and are included in any log files you share with us. Although the ID may be associated with your device and/or Apple ID, we are unable to trace or connect it back to you unless you voluntarily provide us with the ID.
 
 ### User Identifiers
-If you sign in to the App with Sign In with Apple, Apple will generate an identifier that we use to recognize you in the app. These IDs are linked to data transmitted to RevenueCat, Sentry, Mixpanel, and other third party services and are included in any log files you share with us. Although the ID may be associated with your device and/or Apple ID, we are unable to trace or connect it back to you personally unless you voluntarily provide us your ID.
+If you sign in to the App with Sign In with Apple, Apple will generate an identifier that we use to recognize you in the app. These IDs are linked to data transmitted to RevenueCat, Sentry, Posthog, and other third party services and are included in any log files you share with us. Although the ID may be associated with your device and/or Apple ID, we are unable to trace or connect it back to you personally unless you voluntarily provide us your ID.
 
 ### Purchase Data
 We use Apple as a payment provider for paid subscriptions. Apple's Privacy Policy can be found [here](https://www.apple.com/legal/privacy/en-ww/).
@@ -36,9 +36,14 @@ We use RevenueCat to manage trial and subscriptions purchases of Pines Pro. To m
 To assist us in diagnosing issues with the App, you may optionally send Application Logs & Diagnostics from the App. Doing so will send technical log information to the recipient of the diagnostics email. These logs may contain details about your device and interactions with the App, but they do not contain personally identifiable information.
 
 ### Analytics Data
-To improve the quality of the App, we use Mixpanel to collect anonymous usage data from your use of the app. Your device type, OS version, IP address, user IDs, and other metadata along with usage information are sent to Mixpanel. If you wish to opt out of this form of analytics tracking, you may do so in the App's settings page under "Analytics".
+To improve the quality of the App, we use Posthog to collect anonymous usage data from your use of the app. Your device type, OS version, IP address, user IDs, and other metadata along with usage information are sent to Posthog. If you wish to opt out of this form of analytics tracking, you may do so in the App's settings page under "Analytics".
 
-Mixpanel's privacy policy can be found [here](https://mixpanel.com/legal/privacy-policy/).
+Posthog's privacy policy can be found [here](https://posthog.com/privacy).
+
+### Anonymous Location Data
+We use [MapBox](https://www.mapbox.com/) to provide maps throughout the app. If you enable Location Services in the app, MapBox "collect[s] device location and select related data that is promptly de-identified, anonymized and aggregated to support and improve [their] products and services". If you wish to opt-out of MapBox's telemetry collection, you may do so by either:
+- Disabling Location Services for the app
+- Opting out by tapping the information button in the top left-hand corner of the map in the app.
 
 ## Information Usage
 We use the information we collect to operate and improve the Website, the App, and customer support. We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property. In the future, we may sell to, buy, merge with, or partner with other businesses. In such transactions, user information may be among the transferred assets.
