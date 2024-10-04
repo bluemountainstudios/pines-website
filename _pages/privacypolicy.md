@@ -41,7 +41,7 @@ To improve the quality of the App, we use Posthog to collect anonymous usage dat
 Posthog's privacy policy can be found [here](https://posthog.com/privacy).
 
 ### Anonymous Location Data
-We use [MapBox](https://www.mapbox.com/) to provide maps throughout the app. If you enable Location Services in the app, MapBox "collect[s] device location and select related data that is promptly de-identified, anonymized and aggregated to support and improve [their] products and services". If you wish to opt-out of MapBox's telemetry collection, you may do so by either:
+We use [MapBox](https://www.mapbox.com/) to provide maps throughout the app. If you enable Location Services in the app, MapBox "collect[s] device location and select related data that is promptly de-identified, anonymized and aggregated to support and improve [their] products and services". If you wish to opt-out of MapBox's telemetry services, you may do so by either:
 - Disabling Location Services for the app
 - Opting out by tapping the information button in the top left-hand corner of the map in the app.
 
